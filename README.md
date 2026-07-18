@@ -42,13 +42,10 @@
 <img src="https://img.shields.io/badge/LinkedIn-Vishesh_Agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:visheshagrawal53@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-Visit-22c55e?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 </p>
 
 </div>
