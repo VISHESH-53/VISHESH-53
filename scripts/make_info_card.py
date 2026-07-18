@@ -42,7 +42,7 @@ ROWS = [
     ("kv", "Now", "B.Tech CSE (Data Science) @ Jain University"),
     ("kv", "Focus", "AI, Data Science & Competitive Programming"),
     ("kv", "Learning", "GenAI, LLMs & RAG"),
-    ("kv", "Goal", "Software Engineer / AI Engineer"),
+    ("kv", "Goal", "Data Scientist / AI Engineer"),
     ("gap",),
     ("sec", "Stack"),
     ("kv", "Languages", "Python, C, Java, SQL"),
