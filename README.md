@@ -31,7 +31,7 @@
 
 <h3><code>VISHESH-53@github ~ $ ./links.sh</code></h3>
 
-<p><b>Software Engineer • AI Engineer • Competitive Programmer</b></p>
+<p><b>Data Science• Artificial Intelligence</b></p>
 
 <p>
 <a href="https://github.com/VISHESH-53">
