@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/GitHub-VISHESH--53-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/vishesh-agrawal-1a48b7294/">
 <img src="https://img.shields.io/badge/LinkedIn-Vishesh_Agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
