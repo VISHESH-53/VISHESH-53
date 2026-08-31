@@ -1,22 +1,22 @@
 {
   "username": "VISHESH-53",
-  "generated_at": "2026-08-30T11:54:29Z",
+  "generated_at": "2026-08-31T13:50:20Z",
   "range": {
     "start": "2025-08-31",
+    "end": "2026-08-31"
+  },
+  "total_contributions": 560,
+  "active_days": 103,
+  "avg_per_active_day": 5.4,
+  "current_streak": {
+    "length": 53,
+    "start": "2026-07-09",
     "end": "2026-08-30"
   },
-  "total_contributions": 559,
-  "active_days": 102,
-  "avg_per_active_day": 5.5,
-  "current_streak": {
-    "length": 52,
-    "start": "2026-07-09",
-    "end": "2026-08-29"
-  },
   "longest_streak": {
-    "length": 52,
+    "length": 53,
     "start": "2026-07-09",
-    "end": "2026-08-29"
+    "end": "2026-08-30"
   },
   "best_day": {
     "date": "2026-01-29",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-08",
-      "total": 130
+      "total": 131
     }
   ],
   "days": [
@@ -1535,6 +1535,10 @@
     },
     {
       "date": "2026-08-30",
+      "count": 1
+    },
+    {
+      "date": "2026-08-31",
       "count": 0
     }
   ]
