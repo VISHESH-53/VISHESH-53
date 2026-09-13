@@ -42,11 +42,4 @@
 </p>
 
 </div>
-<!-- Animated GitHub Contribution Graph -->
 
-
-<h3><code>VISHESH-53@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./contribheatmap.svg" width="860" alt="Vishesh Agrawal's GitHub contribution graph" />
-
-<br><br>
